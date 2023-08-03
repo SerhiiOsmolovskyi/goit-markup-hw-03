@@ -95,7 +95,7 @@ button {
 .filter-btn:focus {
   color: var(--secondary-color);
   background-color: var(--hover-focus);
-  border: 1xp solid transparent;
+  border: 1px solid transparent;
 }
 
 
