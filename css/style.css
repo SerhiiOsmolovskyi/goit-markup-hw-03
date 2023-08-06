@@ -68,6 +68,7 @@ button {
 
 .menu-link {
   color: var(--primary-color);
+  display: block;
 }
 .menu-link:hover,
 .menu-link:focus {
@@ -136,6 +137,7 @@ h3 {
   justify-content: space-between;
   padding: 24px 0;
   padding: 0 15px;
+  align-items: center;
 }
 
 .page-navigation {
@@ -252,7 +254,7 @@ h3 {
   height: 56px;
   border: none;
   border-radius: 4px;
-  margin: 48px auto;
+  margin: 48px auto 0 auto;
 }
 
 .order-service-btn:hover,
